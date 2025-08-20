@@ -1,77 +1,77 @@
 # AI Is Power-Hungry  
-# AI渴求能源  
+# AI是贪婪的
 
 [View this post on the web](https://paulkrugman.substack.com/p/ai-is-power-hungry)  
-[在网页上查看此帖子](https://paulkrugman.substack.com/p/ai-is-power-hungry)  
+[在网页上查看此帖子](https://paulkrugman.substack.com/p/ai-is-power-hungry)
 
 This is a post about AI, whose proponents are downright messianic in describing it as the technology of the future. Maybe. But much of their advocacy seems to ignore some mundane limits to AI’s growth — limits I’ll try to illustrate by talking about a technology of the past.  
-这是一篇关于人工智能的帖子，其支持者对其描述得几乎是救世主般，称其为未来的技术。也许是这样。但他们的许多倡导似乎忽视了人工智能增长的一些平凡限制——我将通过谈论一种过去的技术来试图说明这些限制。  
+这是一篇关于人工智能的文章，其支持者在描述它为未来技术时显得极为狂热。也许是这样。但他们的许多倡导似乎忽视了人工智能增长的一些平凡限制——我将通过谈论一种过去的技术来尝试说明这些限制。
 
 I was probably 9 or 10 when my father took me to a Horn & Hardart automat. For those too young to remember — who I hope are a large fraction of my readers — these were establishments in which a variety of sandwiches and other foods were displayed behind glass doors. You would serve yourself by putting coins into a slot, which would unlock the door and let you extract your egg salad sandwich or whatever.  
-我大概在9或10岁时，父亲带我去了一家Horn & Hardart自动餐厅。对于那些太年轻而无法记得的人——我希望我的读者中有很大一部分是这样的——这些地方展示了各种三明治和其他食物，都是在玻璃门后面。你只需将硬币放入一个插槽，就可以自助取餐，打开门后就能拿到你的蛋沙拉三明治或其他食物。  
+我大概在9或10岁的时候，父亲带我去了一家Horn & Hardart自动餐厅。对于那些太年轻而无法记得的人——我希望我的读者中有很大一部分是这样——这些地方展示了各种三明治和其他食物，都是放在玻璃门后面。你只需将硬币放入一个插槽，就可以自取食物，门会解锁，让你拿到你的蛋沙拉三明治或其他食物。
 
 At the time (and at my age) it seemed wonderfully futuristic: Food service without people! In reality, of course, automats weren’t automated; each required a substantial staff to operate the kitchen and keep refilling those glass-doored compartments. And because automats weren’t all they pretended to be, they were eventually driven out of business by the rise of fast food.  
-在当时（以及我那个年龄），这看起来真是奇妙的未来主义：没有人的食品服务！当然，实际上，自动餐厅并不是完全自动化的；每一家都需要相当多的员工来操作厨房并不断补充那些玻璃门的隔间。而且，由于自动餐厅并不是它们所声称的那样，最终它们被快餐的兴起挤出了市场。  
+在我那个年龄，这看起来非常未来主义：没有人的食品服务！当然，实际上，自动餐厅并不是完全自动化的；每家餐厅都需要相当多的员工来操作厨房并不断补充那些带玻璃门的储物柜。而且，由于自动餐厅并不是它们所表现的那样，最终它们被快餐的兴起所挤出了市场。
 
 Many applications of information technology are, like the automats of yore, less miraculous than they seem. True, the user experience makes you feel as if you’ve transcended the material world. You click a button on Amazon’s web site and a day or two later the item you wanted magically appears on your porch. But behind that hands-free experience lie a million-strong workforce and a huge physical footprint of distribution centers and delivery vehicles.  
-许多信息技术的应用，像往昔的自动餐厅一样，看起来并没有那么神奇。确实，用户体验让你感觉仿佛超越了物质世界。你在亚马逊网站上点击一个按钮，一两天后你想要的物品就神奇地出现在你的门廊上。但在这种免提体验背后，是一百万人的劳动力和庞大的配送中心及送货车辆的物理占用。  
+许多信息技术的应用，像昔日的自动餐厅一样，实际上并没有看起来那么神奇。确实，用户体验让你感觉自己超越了物质世界。你在亚马逊网站上点击一个按钮，一两天后你想要的物品就神奇地出现在你的门廊上。但在这种免提体验背后，是一支百万人的劳动力和庞大的配送中心及送货车辆的物理基础设施。
 
 And the disconnect between the trans-material feel of the consumer experience and the physical realities that deliver that experience is especially severe for the hot technology of the moment, AI. We’re constantly arguing about whether AI is a bubble, whether it can really live up to the hype. We don’t talk enough about AI’s massive use of physical resources, especially but not only electricity.  
-消费者体验的超物质感与提供这种体验的物理现实之间的脱节，在当前热门技术人工智能上尤为严重。我们不断争论人工智能是否是一个泡沫，它是否真的能兑现炒作。我们讨论人工智能对物理资源的巨大需求——尤其是但不限于电力——的次数还远远不够。  
+而消费者体验的超物质感与提供这种体验的物理现实之间的脱节，在当前热门技术人工智能上尤为严重。我们不断争论人工智能是否是一个泡沫，是否真的能实现其炒作的承诺。我们对人工智能大量使用物理资源，尤其是电力的讨论还远远不够。
 
 And we certainly don’t talk enough about (a) how U.S. electricity pricing effectively subsidizes AI and (b) the extent to which limitations on generating capacity may nonetheless severely limit the technology’s growth.  
-我们当然也没有足够讨论（a）美国的电价如何有效地补贴人工智能，以及（b）发电能力的限制在多大程度上仍可能严重限制技术的发展。  
+我们当然也没有足够讨论（a）美国电力定价如何有效地补贴人工智能，以及（b）发电能力的限制在多大程度上可能仍然严重限制技术的增长。
 
 How much generating capacity are we talking about? The Department of Energy estimates that data centers already consumed 4.4 percent of U.S. electricity in 2023, and expects that to grow to as much as 12 percent by 2028:  
-我们在谈论多少发电能力？美国能源部估计，数据中心在2023年已消耗了美国电力的4.4%，并预计到2028年这一比例将增长到12%：  
+我们在谈论多少发电能力？能源部估计，数据中心在2023年已经消耗了美国电力的4.4%，并预计到2028年这一比例将增长到12%：
 
 Source: Department of [Energy](https://substack.com/redirect/dda0cd72-e6e3-49e3-9995-1fca8cf96d4b?j=eyJ1IjoiMjBsbmJwIn0.KztYzEWpJOR2MnnIg5ijVYRyTJF67hinhCJnHuA6bbA)  
-来源：美国[能源部](https://substack.com/redirect/dda0cd72-e6e3-49e3-9995-1fca8cf96d4b?j=eyJ1IjoiMjBsbmJwIn0.KztYzEWpJOR2MnnIg5ijVYRyTJF67hinhCJnHuA6bbA)  
+来源：能源部 [能源](https://substack.com/redirect/dda0cd72-e6e3-49e3-9995-1fca8cf96d4b?j=eyJ1IjoiMjBsbmJwIn0.KztYzEWpJOR2MnnIg5ijVYRyTJF67hinhCJnHuA6bbA)
 
 AI isn’t the only source of rising electricity demand from data centers. There are other drivers including, alas, crypto — which still has no legitimate use case, but now has powerful political backing. But Goldman Sachs believes that AI will account for a large fraction of rising data center demand:  
-人工智能并不是数据中心电力需求上升的唯一来源。还有其他驱动因素，包括可悲的加密货币——它仍然没有合法的使用案例，但现在却有强大的政治支持。但高盛认为，人工智能将占据数据中心需求上升的很大一部分：  
+人工智能并不是数据中心电力需求上升的唯一来源。还有其他因素，包括可悲的加密货币——它仍然没有合法的使用案例，但现在得到了强大的政治支持。但高盛认为，人工智能将占据数据中心需求上升的很大一部分：
 
 Source: Goldman [Sachs](https://substack.com/redirect/5a81a754-3dc7-42ec-852e-d2a1ed04a917?j=eyJ1IjoiMjBsbmJwIn0.KztYzEWpJOR2MnnIg5ijVYRyTJF67hinhCJnHuA6bbA)  
-来源：高盛[集团](https://substack.com/redirect/5a81a754-3dc7-42ec-852e-d2a1ed04a917?j=eyJ1IjoiMjBsbmJwIn0.KztYzEWpJOR2MnnIg5ijVYRyTJF67hinhCJnHuA6bbA)  
+来源：高盛 [Sachs](https://substack.com/redirect/5a81a754-3dc7-42ec-852e-d2a1ed04a917?j=eyJ1IjoiMjBsbmJwIn0.KztYzEWpJOR2MnnIg5ijVYRyTJF67hinhCJnHuA6bbA)
 
 With Sam Altman of OpenAI promising to spend “[trillions](https://substack.com/redirect/7f00a863-1a97-49cb-8250-00aca3569c51?j=eyJ1IjoiMjBsbmJwIn0.KztYzEWpJOR2MnnIg5ijVYRyTJF67hinhCJnHuA6bbA)” on data centers in the near future — and sneering at economists who, he imagines, are wringing their hands — I wouldn’t be surprised to see demand come in at the high end of the Department of Energy’s projections. True, the AI bubble might burst before that happens, with potentially ugly consequences for the wider economy. But that’s a subject for another post.  
-OpenAI的山姆·奥特曼承诺在不久的将来花费“[万亿](https://substack.com/redirect/7f00a863-1a97-49cb-8250-00aca3569c51?j=eyJ1IjoiMjBsbmJwIn0.KztYzEWpJOR2MnnIg5ijVYRyTJF67hinhCJnHuA6bbA)”美元用于数据中心——并嘲笑那些他想象中正在焦虑的经济学家——我不会惊讶于看到需求达到美国能源部预测的高端。确实，人工智能泡沫可能在那之前破裂，这可能对更广泛的经济产生丑陋的后果。但那是另一个帖子的主题。  
+OpenAI的山姆·阿尔特曼承诺在不久的将来花费“[数万亿](https://substack.com/redirect/7f00a863-1a97-49cb-8250-00aca3569c51?j=eyJ1IjoiMjBsbmJwIn0.KztYzEWpJOR2MnnIg5ijVYRyTJF67hinhCJnHuA6bbA)”美元用于数据中心——并嘲笑那些他想象中正在捶胸顿足的经济学家——我不会惊讶于看到需求达到能源部预测的高端。确实，人工智能泡沫可能在那之前就破裂，这可能对更广泛的经济产生不利影响。但那是另一个帖子的主题。
 
 So suppose that AI really does consume vast quantities of electricity over the next few years. Where are all those kilowatt-hours supposed to come from?  
-所以假设人工智能在未来几年确实消耗大量电力。那么这些千瓦时的电力应该从哪里来呢？  
+那么假设人工智能在未来几年确实消耗大量电力。这些千瓦时的电力应该来自哪里？
 
 America is, of course, adding generating capacity as you read this, and can accelerate that expansion if it chooses to. But there are two big obstacles to any attempt to keep up with the demand from AI.  
-当然，美国在你阅读这篇文章时正在增加发电能力，并且如果选择的话可以加速这种扩展。但在任何试图跟上人工智能需求的努力中，有两个主要障碍。  
+当然，美国在你阅读这篇文章时正在增加发电能力，如果选择的话，可以加速这种扩张。但在任何试图跟上人工智能需求的努力中，有两个重大障碍。
 
 The first is that in recent years growth in U.S. generating capacity has become increasingly dependent on growth in renewable energy. According to S&P Global, almost 90 percent of the generating capacity added in the first 8 months of 2024 came from solar and wind:  
-第一个障碍是，近年来美国的发电能力增长越来越依赖于可再生能源的增长。根据标准普尔全球公司的数据，2024年前8个月新增的发电能力中几乎90%来自太阳能和风能：  
+第一个障碍是，近年来美国发电能力的增长越来越依赖于可再生能源的增长。根据标普全球的数据显示，2024年前8个月新增的发电能力中，几乎90%来自太阳能和风能：
 
 Source: S&P [Global](https://substack.com/redirect/d29d99ed-e434-4304-9901-fff4ce748710?j=eyJ1IjoiMjBsbmJwIn0.KztYzEWpJOR2MnnIg5ijVYRyTJF67hinhCJnHuA6bbA)  
-来源：标准普尔[全球](https://substack.com/redirect/d29d99ed-e434-4304-9901-fff4ce748710?j=eyJ1IjoiMjBsbmJwIn0.KztYzEWpJOR2MnnIg5ijVYRyTJF67hinhCJnHuA6bbA)  
+来源：标普 [全球](https://substack.com/redirect/d29d99ed-e434-4304-9901-fff4ce748710?j=eyJ1IjoiMjBsbmJwIn0.KztYzEWpJOR2MnnIg5ijVYRyTJF67hinhCJnHuA6bbA)
 
 Why is this a problem? Because Donald Trump and his minions have a deep, irrational hatred for renewable energy. Not only have they eliminated many of the green energy subsidies introduced by the Biden administration, they have been actively trying to [block](https://substack.com/redirect/ef1846e6-2d6c-4d61-b9f7-3a3f8f2a7dd3?j=eyJ1IjoiMjBsbmJwIn0.KztYzEWpJOR2MnnIg5ijVYRyTJF67hinhCJnHuA6bbA) solar and wind projects.  
-这为什么是个问题？因为唐纳德·特朗普及其追随者对可再生能源有着深刻而非理性的仇恨。他们不仅取消了拜登政府推出的许多绿色能源补贴，还积极试图[阻止](https://substack.com/redirect/ef1846e6-2d6c-4d61-b9f7-3a3f8f2a7dd3?j=eyJ1IjoiMjBsbmJwIn0.KztYzEWpJOR2MnnIg5ijVYRyTJF67hinhCJnHuA6bbA)太阳能和风能项目。  
+这为什么是个问题？因为唐纳德·特朗普及其追随者对可再生能源有着深刻而非理性的仇恨。他们不仅取消了拜登政府推出的许多绿色能源补贴，还积极试图[阻止](https://substack.com/redirect/ef1846e6-2d6c-4d61-b9f7-3a3f8f2a7dd3?j=eyJ1IjoiMjBsbmJwIn0.KztYzEWpJOR2MnnIg5ijVYRyTJF67hinhCJnHuA6bbA)太阳能和风能项目。
 
 So even as Trump promises to make America dominant in AI, he’s undermining a different cutting-edge technology — renewable energy — that is crucial to AI’s growth.  
-因此，即使特朗普承诺让美国在人工智能领域占据主导地位，他却在削弱另一项关键的前沿技术——可再生能源，而这对人工智能的增长至关重要。  
+因此，即使特朗普承诺让美国在人工智能领域占据主导地位，他却在削弱另一项关键的前沿技术——可再生能源，这对人工智能的增长至关重要。
 
 Suppose that electric utilities manage somehow to get around Trump’s anti-technology roadblocks and build the extra generating capacity. Who will pay for all that spending? The answer, given the way we regulate these utilities — and as natural monopolies, they must be regulated — is that the cost of adding capacity to power data centers is passed on to ordinary customers who have nothing to do with AI. This is already happening: Over the past 6 months retail electricity [prices](https://substack.com/redirect/740fed92-dc7f-4dd1-91cc-72c607769566?j=eyJ1IjoiMjBsbmJwIn0.KztYzEWpJOR2MnnIg5ijVYRyTJF67hinhCJnHuA6bbA) have risen at a 9 percent annual rate, four times as fast as overall consumer prices.  
-假设电力公司设法绕过特朗普的反技术障碍，建设额外的发电能力。那么，所有这些支出由谁来支付呢？根据我们对这些公用事业的监管方式——作为自然垄断，它们必须受到监管——答案是，增加为数据中心供电的能力的成本将转嫁给与人工智能无关的普通客户。这种情况已经在发生：在过去6个月中，零售电力[价格](https://substack.com/redirect/740fed92-dc7f-4dd1-91cc-72c607769566?j=eyJ1IjoiMjBsbmJwIn0.KztYzEWpJOR2MnnIg5ijVYRyTJF67hinhCJnHuA6bbA)以9%的年率上涨，是整体消费价格的四倍。  
+假设电力公司设法绕过特朗普的反技术障碍，建设额外的发电能力。谁来为所有这些支出买单？根据我们对这些公用事业的监管方式——作为自然垄断，它们必须受到监管——答案是，增加供电数据中心的能力的成本将转嫁给与人工智能无关的普通客户。这种情况已经发生：在过去6个月中，零售电力[价格](https://substack.com/redirect/740fed92-dc7f-4dd1-91cc-72c607769566?j=eyJ1IjoiMjBsbmJwIn0.KztYzEWpJOR2MnnIg5ijVYRyTJF67hinhCJnHuA6bbA)以9%的年率上涨，是整体消费者价格的四倍。
 
 Last week the watchdog for PJM Interconnection LLC, the nation’s largest grid, declared that this must stop, that it “recommends that large data centers be required to bring their own [generation](https://substack.com/redirect/ce1ce46a-a792-4c91-ae20-e88e752f7d29?j=eyJ1IjoiMjBsbmJwIn0.KztYzEWpJOR2MnnIg5ijVYRyTJF67hinhCJnHuA6bbA).”  
-上周，国家最大电网PJM Interconnection LLC的监管机构宣布，这必须停止，他们“建议大型数据中心必须自备[发电](https://substack.com/redirect/ce1ce46a-a792-4c91-ae20-e88e752f7d29?j=eyJ1IjoiMjBsbmJwIn0.KztYzEWpJOR2MnnIg5ijVYRyTJF67hinhCJnHuA6bbA)。”  
+上周，国家最大电网PJM互联公司的监管机构宣布，这种情况必须停止，他们“建议大型数据中心必须自带[发电](https://substack.com/redirect/ce1ce46a-a792-4c91-ae20-e88e752f7d29?j=eyJ1IjoiMjBsbmJwIn0.KztYzEWpJOR2MnnIg5ijVYRyTJF67hinhCJnHuA6bbA)”。
 
 Indeed, requiring that the AI industry take responsibility for the costs it imposes makes a lot of sense. It would by no means end progress in AI. As the website Tech Policy [notes](https://substack.com/redirect/69744a8b-e780-4aab-8c46-820d3e6f0270?j=eyJ1IjoiMjBsbmJwIn0.KztYzEWpJOR2MnnIg5ijVYRyTJF67hinhCJnHuA6bbA), there are many AI applications in which smaller, more focused models can perform almost as well as the bloated, all-in-one models currently dominating the field, while consuming far less energy. Until now there has been no incentive to take energy consumption into account, but there’s every reason to believe that we could achieve huge efficiency gains at very low cost.  
-事实上，要求人工智能行业对其所造成的成本负责是非常合理的。这绝不会阻碍人工智能的进步。正如网站Tech Policy[指出](https://substack.com/redirect/69744a8b-e780-4aab-8c46-820d3e6f0270?j=eyJ1IjoiMjBsbmJwIn0.KztYzEWpJOR2MnnIg5ijVYRyTJF67hinhCJnHuA6bbA)的那样，许多人工智能应用中较小、更专注的模型几乎可以与目前主导该领域的臃肿的全能模型表现得一样好，同时消耗的能源要少得多。直到现在，尚未有激励措施来考虑能耗，但我们有充分理由相信，我们可以以非常低的成本实现巨大的效率提升。  
+确实，要求人工智能行业对其造成的成本负责是非常合理的。这绝不会终止人工智能的进步。正如网站Tech Policy所[指出](https://substack.com/redirect/69744a8b-e780-4aab-8c46-820d3e6f0270?j=eyJ1IjoiMjBsbmJwIn0.KztYzEWpJOR2MnnIg5ijVYRyTJF67hinhCJnHuA6bbA)的那样，许多人工智能应用中，较小的、更专注的模型几乎可以与当前主导领域的庞大一体化模型表现得一样好，同时消耗的能量要少得多。直到现在，考虑能耗没有激励，但我们有充分理由相信，我们可以以非常低的成本实现巨大的效率提升。
 
 But will we do the sensible thing? It’s obvious that any attempt to make AI more energy-efficient would lead to howls from tech bros who believe that they embody humanity’s future — and these bros have bought themselves a lot of political power.  
-但我们会做出明智的选择吗？显然，任何试图让人工智能更节能的努力都会引来那些相信自己代表人类未来的科技兄弟们的抗议——而这些兄弟们已经为自己赢得了很多政治权力。  
+但我们会做出明智的选择吗？显然，任何试图让人工智能更节能的努力都会引来那些相信自己代表人类未来的科技兄弟们的抗议——而这些兄弟们已经为自己赢得了很多政治权力。
 
 So I don’t know how this will play out. I do know that your future electricity bills depend on the answer.  
-所以我不知道这将如何发展。我确实知道，你未来的电费账单取决于这个答案。  
+所以我不知道这将如何发展。我确实知道，你未来的电费账单取决于这个答案。
 
 MUSICAL CODA  
-音乐尾声  
+音乐尾声
 
 The Grateful Dread do reggae covers of Grateful Dead songs. We saw them last week; this, recorded on my phone, seems appropriate given the shameful events in Alaska. “Don’t you let that deal go down.”  
-Grateful Dread乐队演奏Grateful Dead的雷鬼风格翻唱。我们上周看了他们的演出；这段我在手机上录制的表演，考虑到阿拉斯加的耻辱事件，似乎很合适。“不要让那个交易失败。”
+The Grateful Dread演绎了Grateful Dead的雷鬼风格歌曲。我们上周看了他们的表演；这个录音在我的手机上，考虑到阿拉斯加的可耻事件，似乎很合适。“不要让那个交易失败。”
